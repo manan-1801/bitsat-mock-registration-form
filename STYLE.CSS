@@ -1,6 +1,9 @@
 .head{margin-top : 10px;
     background-color: #77ACF1;
 }
+.main{
+text-align:center;
+}
 .linkhead{
     position: relative;
     left: 65%;
